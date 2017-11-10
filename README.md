@@ -2,7 +2,9 @@ Hardware:
 - 96board
 - Linker Base Mezzanine Card
 - Pin cable
-- TPM36 temperature sensor
+- Linker temperature sensor
+
+Linker temperature sensor may be connected to ADC1 port
 
 
 To run the code examples:
